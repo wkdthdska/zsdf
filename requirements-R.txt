@@ -1,0 +1,5 @@
+R 4.6.1
+edgeR
+limma
+survival
+splines

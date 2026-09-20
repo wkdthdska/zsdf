@@ -1,0 +1,62 @@
+{
+  "primary_paired_donors": {
+    "GSE176078": 16,
+    "GSE161529": 26
+  },
+  "sensitivity_paired_donors": {
+    "GSE176078": 13,
+    "GSE161529": 23
+  },
+  "common_tested_genes_n": 10341,
+  "cross_cohort_logFC_spearman_rho": 0.45728337499266103,
+  "cross_cohort_logFC_spearman_p": 0.0,
+  "tier_A_genes_n": 190,
+  "tier_B_genes_n": 474,
+  "selected_signature_n": 30,
+  "selection_rule": "top 30 portable Tier-A genes ranked by worst-cohort FDR, then smaller-cohort logFC",
+  "selected_signature_genes": [
+    "CTSB",
+    "LPL",
+    "VAT1",
+    "FABP5",
+    "RBP4",
+    "MGLL",
+    "GPNMB",
+    "CES1",
+    "PLA2G7",
+    "PPARG",
+    "PAQR5",
+    "HS3ST2",
+    "RMDN3",
+    "ATP6V0D2",
+    "GM2A",
+    "CHIT1",
+    "SLC28A3",
+    "RTN4R",
+    "FAM20C",
+    "NCEH1",
+    "CAMK2B",
+    "LGALS3",
+    "OTOA",
+    "SPOCD1",
+    "CYP27A1",
+    "SCCPDH",
+    "ITGA3",
+    "SDC2",
+    "RAB7B",
+    "HSD3B7"
+  ],
+  "tier_A_prespecified_anchors": [
+    "GPNMB",
+    "LPL",
+    "APOC1",
+    "CYP27A1",
+    "LIPA",
+    "ACP5",
+    "APOE"
+  ],
+  "arl11_forced_into_signature": false,
+  "arl11_tier_A": false,
+  "focused_functional_terms_fdr_0_05_n": 20,
+  "spatial_projection_gate_pass": true
+}

@@ -1,0 +1,30 @@
+{
+  "cohort": "GSE169246",
+  "disease_context": "pretreatment advanced TNBC tumour macrophages",
+  "eligible_donors_n": 13,
+  "eligible_macrophages_n": 5000,
+  "minimum_macrophages_per_donor": 20,
+  "signature_genes_present_n": 30,
+  "signature_genes_expected_n": 30,
+  "arl11_used_for_selection_or_scoring": false,
+  "holdout_panels_fdr_0_05_n": 4,
+  "holdout_panels_positive_fdr_0_05": [
+    "lipid_foam_holdout",
+    "lysosome_holdout",
+    "immunosuppressive"
+  ],
+  "holdout_anchors_positive_fdr_0_05": [
+    "APOC1",
+    "APOE",
+    "LIPA",
+    "ACP5",
+    "TREM2"
+  ],
+  "signature_genes_positive_loo_correlation_fraction": 0.9666666666666667,
+  "author_subtypes_positive_fdr_0_05": [],
+  "arl11_secondary_eligible_donors_n": 9,
+  "arl11_positive_minus_negative_state_median": 0.06687383112469159,
+  "arl11_positive_minus_negative_positive_donor_fraction": 0.8888888888888888,
+  "arl11_positive_minus_negative_state_p": 0.0078125,
+  "replication_gate_pass": true
+}

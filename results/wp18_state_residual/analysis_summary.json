@@ -1,0 +1,29 @@
+{
+  "analysis_date": "2026-08-18",
+  "seed": 20260818,
+  "cohort_donor_n": {
+    "GSE176078": 25,
+    "GSE161529": 29
+  },
+  "primary_covariates": [
+    "generic_macrophage_score",
+    "macrophage_fraction",
+    "technical_QC_PC1"
+  ],
+  "primary_endpoint_analysis": "partial Spearman; pathway genes overlapping fixed signature removed",
+  "meta_model": "DerSimonian-Laird random effects on Fisher-z partial correlations",
+  "primary_state_fdr_concordant_n": 4,
+  "primary_state_fdr_concordant_pathways": [
+    "lipid_metabolism",
+    "phagolysosome",
+    "T_cell_exclusion_like",
+    "ECM_remodelling"
+  ],
+  "upgrade_gate_pass": true,
+  "nonlinear_fdr_0_05_n": 0,
+  "limitations": [
+    "Only two cohorts; random-effects heterogeneity estimates are imprecise",
+    "GSE161529 denominator is immune cells, not all tumor cells",
+    "MAPK/p38 scores are transcriptional response proxies, not phosphoprotein measurements"
+  ]
+}

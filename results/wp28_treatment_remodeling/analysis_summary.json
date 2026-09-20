@@ -1,0 +1,28 @@
+{
+  "signature_frozen": true,
+  "arl11_in_signature": false,
+  "poetic_paired_patients_n": 213,
+  "poetic_ai_n": 157,
+  "poetic_control_n": 56,
+  "poetic_state_residual_ai_beta": 0.3297731910013668,
+  "poetic_state_residual_ai_CI": [
+    0.07552755185667454,
+    0.5840188301460592
+  ],
+  "poetic_state_residual_ai_FDR": 0.016523509769868015,
+  "poetic_state_change_generic_delta_adjusted_beta": 0.08542254033721976,
+  "poetic_state_change_generic_delta_adjusted_CI": [
+    0.01946384167580391,
+    0.1513812389986356
+  ],
+  "poetic_state_change_generic_delta_adjusted_p": 0.011138213488141514,
+  "gse59515_patients_n": 25,
+  "gse59515_week2_state_residual_median_change": 1.202037543430877,
+  "gse59515_week2_state_residual_FDR": 0.003419220447540283,
+  "gse59515_month3_state_residual_median_change": 1.6341300614618115,
+  "gse59515_month3_state_residual_FDR": 0.00463181734085083,
+  "poetic_state_change_vs_residual_ki67_FDR": 0.6013307664707355,
+  "gse59515_state_change_vs_response_FDR": 0.4317980722557381,
+  "remodeling_replication_gate_pass": true,
+  "adaptive_resistance_gate_pass": false
+}

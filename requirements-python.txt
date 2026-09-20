@@ -1,0 +1,10 @@
+anndata==0.13.2
+h5py==3.16.0
+matplotlib==3.11.1
+numpy==2.5.2
+pandas==3.0.5
+rdata
+scikit-learn
+scipy==1.18.0
+seaborn
+statsmodels==0.14.6

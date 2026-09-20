@@ -1,0 +1,20 @@
+{
+  "patients_n": 4,
+  "spots_n": 6700,
+  "blocks_n": 60,
+  "signature_genes_n": 30,
+  "signature_genes_present_variable_per_sample": {
+    "CID4290": 30,
+    "CID4535": 30,
+    "CID4465": 30,
+    "CID44971": 30
+  },
+  "state_adjustment": [
+    "generic_macro_score",
+    "myeloid",
+    "technical_QC_PC1"
+  ],
+  "fdr_concordant_expected_outcomes": [],
+  "specific_spatial_niche_gate_pass": false,
+  "interpretation": "Visium is a multicellular spot assay; results concern spatial programs, not direct cell-cell distance."
+}

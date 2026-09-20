@@ -1,0 +1,30 @@
+{
+  "endpoint": "overall survival",
+  "primary_predictor": "frozen WP23 consensus signature residualized on generic macrophage abundance",
+  "primary_meta_HR": 0.9646888651820783,
+  "primary_meta_CI_mKH": [
+    0.8493492740640823,
+    1.095691295706072
+  ],
+  "primary_meta_p_mKH": 0.34841887247096837,
+  "primary_meta_CI_normal": [
+    0.9103237300398344,
+    1.0223007221459155
+  ],
+  "primary_meta_p_normal": 0.22446594268706332,
+  "primary_meta_I2_percent": 0.0,
+  "primary_direction_concordant": false,
+  "abundance_adjusted_meta_HR": 0.9204794795900767,
+  "abundance_adjusted_meta_p_mKH": 0.08555189578542062,
+  "common_gene_clinical_meta_HR": 0.9624405932281631,
+  "common_gene_clinical_meta_p_mKH": 0.32623834204533964,
+  "ph_robust_meta_HR": 0.9780398117689869,
+  "ph_robust_meta_CI_mKH": [
+    0.8536866520253676,
+    1.120507004690394
+  ],
+  "ph_robust_meta_p_mKH": 0.5550855928098717,
+  "cohort_PH_violations_p_lt_0_05": [],
+  "clinical_models_min_events_per_parameter": 22.8,
+  "upgrade_gate_pass": false
+}

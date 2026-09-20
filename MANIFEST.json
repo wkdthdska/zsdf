@@ -1,0 +1,227 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 75,
+    "sha256": "1b9ae71a8b0519386de1ac32997bcb054e73356ff38bbff8a4b54c262407da5d"
+  },
+  {
+    "path": "code/111_analyze_poetic_endocrine.py",
+    "bytes": 20894,
+    "sha256": "dfa381ba26e99e7f0d73526e54ac6d78232a1d6fe399c6ef97f1cb50bd5b7294"
+  },
+  {
+    "path": "code/121_wp18_arl11_state_residual.py",
+    "bytes": 21836,
+    "sha256": "8b0006bc0e203bbcb63bf237e89ef482de42c129f2d01419774bf6cec46c5d0a"
+  },
+  {
+    "path": "code/122_wp19_spatial_interface_validation.py",
+    "bytes": 21201,
+    "sha256": "d89dea24fd2492614a849ca870461042fd3dd94e85e5e3d7678967feb05373e8"
+  },
+  {
+    "path": "code/137_consensus_state_pseudobulk.py",
+    "bytes": 4700,
+    "sha256": "94f4dc8724efd21860e5a710216471db66085aad9222a0800b9e4b1e36a94b33"
+  },
+  {
+    "path": "code/138_consensus_state_paired_voom.R",
+    "bytes": 3553,
+    "sha256": "d4f11d1c0bc2744da2477afc30589f9182c14aad5c44e1746e46d0f208dd02f7"
+  },
+  {
+    "path": "code/139_consensus_state_signature.py",
+    "bytes": 12081,
+    "sha256": "e3d3c2e9e7858ea4a271d819d9dcb8a4f4132288ea403bf74db9f23be20c6c33"
+  },
+  {
+    "path": "code/140_consensus_state_spatial_projection.py",
+    "bytes": 5956,
+    "sha256": "d794011f4c3096f27943d666c26d74dba48fa0646ff714a9715d1a8198401504"
+  },
+  {
+    "path": "code/142_wp26_validate_consensus_state.py",
+    "bytes": 19724,
+    "sha256": "bcc0cca1f403a482711bac8dbf1a36f55864f68a29cea51c33018d6d69a48b27"
+  },
+  {
+    "path": "code/144_prepare_wp27_consensus_prognosis.py",
+    "bytes": 11463,
+    "sha256": "a8035c0aa9b8f81e2ff5092ab5e78ea6ae810dba21f6d7ce46b3dd77aa723d22"
+  },
+  {
+    "path": "code/145_wp27_consensus_survival.R",
+    "bytes": 8495,
+    "sha256": "acdde5cc9ec6fb3c7047015ced640052b3827b19c254c3831c84b8b93a41a400"
+  },
+  {
+    "path": "code/146_summarize_wp27_consensus_prognosis.py",
+    "bytes": 9827,
+    "sha256": "0d21cadc7af7091febc3038614569c27d903ca3a711289c91249468c731f297c"
+  },
+  {
+    "path": "code/147_wp28_fixed_state_treatment_remodeling.py",
+    "bytes": 21018,
+    "sha256": "999db6b56c1cd8cf1fc7cbbbaa141431971aeb8ce0eb9e096f4fdbccfa1f3f2e"
+  },
+  {
+    "path": "code/149_wp29_figure3_consensus_state.py",
+    "bytes": 10407,
+    "sha256": "84c1c7d90aeb6529ec5c68e9c528dd3e863d888b90b4fe0b272912e5b8fa0b9e"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3034,
+    "sha256": "8335e1b56a49acfc6f8570c9bca390aedae9414b0e17c65e080a50b2952e63a5"
+  },
+  {
+    "path": "requirements-python.txt",
+    "bytes": 146,
+    "sha256": "22428e1d762d1cab1c4db4cddfaa6fd2f6ad496fcba77e4af7f0867d90e5ba45"
+  },
+  {
+    "path": "requirements-R.txt",
+    "bytes": 42,
+    "sha256": "c904b526f0fe3d25db25b3a40e177c74e5ce80341a6503517d40bf3a27e801dc"
+  },
+  {
+    "path": "results/wp18_state_residual/analysis_summary.json",
+    "bytes": 954,
+    "sha256": "38c0ee94b9434ff2f07952e62d747494062562ba6482f8cacc3813e65fdae4e5"
+  },
+  {
+    "path": "results/wp18_state_residual/cohort_partial_associations.csv",
+    "bytes": 13762,
+    "sha256": "02f2d772f86eaed2ca8ff14c62effffece8a3cd47cd0f90bc41e9a3b3f61b81c"
+  },
+  {
+    "path": "results/wp18_state_residual/random_effects_meta.csv",
+    "bytes": 6713,
+    "sha256": "db28cce602da1391a6b385125ce481bbc594958c52277929404bef6d110f3a9b"
+  },
+  {
+    "path": "results/wp23_consensus_state/analysis_summary.json",
+    "bytes": 1243,
+    "sha256": "678fd5d6399daf0ddc201ab4dea0124aadbd7de2cfd8b710710eb5e022646919"
+  },
+  {
+    "path": "results/wp23_consensus_state/consensus_macrophage_remodeling_signature.csv",
+    "bytes": 13489,
+    "sha256": "3d4d2ed15d5330f6ec379305d9fe4a05e0f5b1f152242a9fda1f6c2b0ffb98db"
+  },
+  {
+    "path": "results/wp23_consensus_state/cross_cohort_gene_evidence.csv.gz",
+    "bytes": 1797505,
+    "sha256": "6fc5db76fa98a2a507b986532ff7ee154c964741f9498978468472bc5a6d3b20"
+  },
+  {
+    "path": "results/wp23_consensus_state/paired_donor_threshold_summary.csv",
+    "bytes": 210,
+    "sha256": "7bf6065af0b2cb314cd8168af2336ec2dda50305631d6064147853ae824aaefe"
+  },
+  {
+    "path": "results/wp23_consensus_state/prespecified_anchor_evidence.csv",
+    "bytes": 4483,
+    "sha256": "1728aa53137d5119564a906354ecd701e549a68c76366824673eb1a7028aa317"
+  },
+  {
+    "path": "results/wp24_consensus_spatial/analysis_summary.json",
+    "bytes": 543,
+    "sha256": "1ce6e14af2582c192b788b2c97c27181296938871d6b7522df2f16e68bb19bdc"
+  },
+  {
+    "path": "results/wp24_consensus_spatial/block_grid_sensitivity_meta.csv",
+    "bytes": 3658,
+    "sha256": "7c3f8ab4d717b540155baf6c173be8e01c568278c863d50ef272906c6b79c855"
+  },
+  {
+    "path": "results/wp24_consensus_spatial/gene_set_coverage.csv",
+    "bytes": 1465,
+    "sha256": "ed1aa70c151b307ea90c6c5d1f9225d1a7e997417ef6b90d94bff1990afa96bc"
+  },
+  {
+    "path": "results/wp24_consensus_spatial/random_effects_meta_with_direction.csv",
+    "bytes": 2080,
+    "sha256": "21b8cd1346894f2d9699dc4593f631640f0cf652a84e203688491a2da86ab31e"
+  },
+  {
+    "path": "results/wp26_independent_state_validation/analysis_summary.json",
+    "bytes": 1000,
+    "sha256": "bb5b731e9d3281aa801d5f13fee12e5ef063098a835874a67101dce98b1ef090"
+  },
+  {
+    "path": "results/wp26_independent_state_validation/donor_signature_leave_one_out_coherence.csv",
+    "bytes": 2041,
+    "sha256": "692d8157a388c2b151de74ae4bc3e9bbe44e307e62bca60491e9c27f03cc42bd"
+  },
+  {
+    "path": "results/wp26_independent_state_validation/holdout_anchor_paired_validation.csv",
+    "bytes": 469,
+    "sha256": "c4d8b09c2e9b95b5c412936437221fd66e49375dc9dfa63d10fff676ac2a488b"
+  },
+  {
+    "path": "results/wp26_independent_state_validation/holdout_program_paired_validation.csv",
+    "bytes": 788,
+    "sha256": "6644744fb321d248193c7f1f96540b21f8dfdacb328a8bf47a37f61858cb252d"
+  },
+  {
+    "path": "results/wp26_independent_state_validation/secondary_arl11_state_test.csv",
+    "bytes": 174,
+    "sha256": "2ffe62bbbb717aeeb75d8eb9791b386985e3195b29198ecd7712f72a0eea35cf"
+  },
+  {
+    "path": "results/wp27_consensus_prognosis/analysis_summary.json",
+    "bytes": 1048,
+    "sha256": "12f85b5b381ea453be2fa1b1c8c738382f3704545c07afab08f6a745262c9991"
+  },
+  {
+    "path": "results/wp27_consensus_prognosis/cohort_cox_models.csv",
+    "bytes": 5159,
+    "sha256": "7a514334d52154103448c1fe8c52c083e483123e3dd89ac9327d04d70a360b9e"
+  },
+  {
+    "path": "results/wp27_consensus_prognosis/incremental_concordance.csv",
+    "bytes": 878,
+    "sha256": "0d2b6723a01b3bfb4d19416cc8c66a6f7aacf330023a58783b7669d216b6fa06"
+  },
+  {
+    "path": "results/wp27_consensus_prognosis/ph_robust_random_effects_meta.csv",
+    "bytes": 637,
+    "sha256": "d7da30fd5d164a0d539c19bbd5b09c6f53cd8f4631e75764e60267e22821eaa3"
+  },
+  {
+    "path": "results/wp27_consensus_prognosis/random_effects_meta.csv",
+    "bytes": 1626,
+    "sha256": "2280284268e6acf7f1ca5ac9ad1b1a09ee0dc4958ec21787c2a6cdd68d4e392c"
+  },
+  {
+    "path": "results/wp28_treatment_remodeling/analysis_summary.json",
+    "bytes": 1126,
+    "sha256": "187d5a5b5365a786f6078d313b897b5c996f4ac7a7e45672c50aeb7c58c02011"
+  },
+  {
+    "path": "results/wp28_treatment_remodeling/gse59515_change_vs_response.csv",
+    "bytes": 796,
+    "sha256": "4055dca4f8d0fcd2b4fe777781cda52f00b342c6667809551988917b5a6d686e"
+  },
+  {
+    "path": "results/wp28_treatment_remodeling/gse59515_paired_changes.csv",
+    "bytes": 617,
+    "sha256": "18082f088d4ca41a458e3b3c266a4d717309fa79268ec5f3b0b4bbe55af07c43"
+  },
+  {
+    "path": "results/wp28_treatment_remodeling/poetic_ai_vs_control_change.csv",
+    "bytes": 518,
+    "sha256": "f07971a805d5497e80ba7c24bc94e6381adc1ba997e658df3690e1286f8b4ef2"
+  },
+  {
+    "path": "results/wp28_treatment_remodeling/poetic_change_vs_residual_ki67.csv",
+    "bytes": 408,
+    "sha256": "67911da44f116d25f3f47b6ae3d07fe91f8867a2736d1588239c4b9f18fc0742"
+  },
+  {
+    "path": "results/wp28_treatment_remodeling/poetic_generic_change_adjusted_state.csv",
+    "bytes": 172,
+    "sha256": "54afd1828f7c588cbf0b0e1d29d7306b23a225fe5552b56eb9dfd5d29bb70692"
+  }
+]
